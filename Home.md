@@ -1,4 +1,5 @@
-[![discord server](https://media.discordapp.net/attachments/929706675022233640/933723518321967144/banner.jpg)]
+![image](https://user-images.githubusercontent.com/88353497/192116432-3d2106f8-b506-4b0a-ae2d-066763c0c06f.png)
+
 
 # Mercury
 
