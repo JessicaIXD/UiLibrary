@@ -1,17 +1,10 @@
 ![image](https://user-images.githubusercontent.com/88353497/192116432-3d2106f8-b506-4b0a-ae2d-066763c0c06f.png)
 
 
-# Mercury
-
-Mercury is a free and open sourced Roblox UI library.
-
-- https://discord.gg/jaunk8nhN5
-- https://discord.com/users/480805591221010456
-- https://discord.com/users/452466034822217739
-
+# Polaris
 ## Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JessicaIXD/UiLibrary/main/MasterLibrary.lua"))()
 ```
 
 ## Features:
@@ -33,7 +26,7 @@ Created by [Jessiiie#6364]
 
 ### Get the Library
 ```lua
-local Polaris = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Polaris = loadstring(game:HttpGet("https://raw.githubusercontent.com/JessicaIXD/UiLibrary/main/MasterLibrary.lua"))()
 ```
 
 ### Create the GUI
@@ -42,7 +35,7 @@ local GUI = Polaris:Create{
     Name = "Polaris",
     Size = UDim2.fromOffset(600, 400),
     Theme = Polaris.Themes.Dark,
-    Link = "https://github.com/deeeity/mercury-lib"
+    Link = "v"
 }
 ```
 
